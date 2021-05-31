@@ -5,6 +5,7 @@ module.exports = {
       safelist: [],
     },
   },
+  darkmode: false,
   theme: {
     extend: {
       colors: {
